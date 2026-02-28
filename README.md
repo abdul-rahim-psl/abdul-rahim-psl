@@ -13,7 +13,7 @@
 
 I'm a software engineer who believes that **systems are everything**. I spend my time digging into how things work under the hood — from databases and message queues to API gateways and observability pipelines. I don't just use tools; I try to understand the engineering decisions behind them.
 
-I'm an active open-source contributor at [Tazama](https://github.com/tazama-lf), working on **rule-studio** — a platform for financial crime detection. I care deeply about writing software that is correct, well-structured, and built to last.
+I'm an active open-source contributor at [Tazama](https://github.com/tazama-lf), working on **event-monitoring-service** and **rule-studio** — building real-time financial crime detection infrastructure. I care deeply about writing software that is correct, well-structured, and built to last.
 
 ## 🧠 What I'm Into
 
@@ -36,6 +36,7 @@ I'm an active open-source contributor at [Tazama](https://github.com/tazama-lf),
 
 | Project | What it does |
 |---|---|
+| [**event-monitoring-service**](https://github.com/tazama-lf/event-monitoring-service) | High-performance middleware that validates, transforms, and routes financial transactions via NATS, PostgreSQL, and Redis — my toughest engineering challenge yet |
 | [**tms-service-nest**](https://github.com/abdul-rahim-psl/tms-service-nest) | A NestJS-based transaction handling service — exploring clean architecture with Nest |
 | [**learning-elastic-APM**](https://github.com/abdul-rahim-psl/learning-elastic-APM) | Monitoring microservice performance with Elastic APM |
 | [**nestjs-with-prisma**](https://github.com/abdul-rahim-psl/nestjs-with-prisma) | Integrating Prisma ORM into a NestJS setup for type-safe database access |
@@ -47,7 +48,7 @@ I'm an active open-source contributor at [Tazama](https://github.com/tazama-lf),
 
 ## 🌱 Open Source
 
-I contribute to [**Tazama**](https://github.com/tazama-lf) — an open-source, real-time financial crime detection platform. My work there spans rule validation tooling, schema enforcement, and frontend features in the **rule-studio** project.
+I contribute to [**Tazama**](https://github.com/tazama-lf) — an open-source, real-time financial crime detection platform. My work there spans rule validation tooling, schema enforcement, and backend features in the **event-monitoring-service** and **rule-studio** project.
 
 ## 📈 GitHub Stats
 
